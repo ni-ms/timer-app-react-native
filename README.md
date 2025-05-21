@@ -4,6 +4,12 @@
 
 This timer app lets users create and manage multiple timers efficiently. You can group timers, export and import them, and view timer history. Additionally, the app includes a **theme switcher**, allowing users to toggle between **dark mode** and **light mode** for a personalized experience.
 
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
 ## Getting Started
 
 ```bash  
